@@ -1,9 +1,8 @@
-<h2 align="center">
-  About Me
-</h2>
-<p align="center">
-    Email: su9749@naver.com<br>
-    Resume: <br>
-    Portfolio:
-</p>
+<div align="center">
+
+## About Me
+
+Email: <a href="mailto:su9749@naver.com">su9749@naver.com</a>
+
+</div>
 
