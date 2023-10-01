@@ -1,1 +1,2 @@
-개발자 김도경의 github입니다.
+## About Me
+Email: su9749@naver.com
